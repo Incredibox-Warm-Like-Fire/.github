@@ -1,0 +1,25 @@
+{
+  "name": "incredibox-warm-like-fire",
+  "version": "1.0.0",
+  "description": "Incredibox Warm Like Fire - A fiery-themed music composition game mod based on Incredibox.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/incredibox-warm-like-fire.git"
+  },
+  "keywords": [
+    "Incredibox",
+    "Warm Like Fire",
+    "music",
+    "game",
+    "composition",
+    "interactive"
+  ],
+  "author": "IncrediboxWarmLikeFire",
+  "license": "MIT",
+  "dependencies": {}
+}
